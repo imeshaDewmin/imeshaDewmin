@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/imesha-dewmin-519285222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imesha dewmin" height="30" width="40" /></a>
-<a href="https://fb.com/imesha dewmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imesha dewmin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/imesha.thilakaratne/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imesha dewmin" height="30" width="40" /></a>
 <a href="https://instagram.com/imesha.dewmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imesha.dewmin" height="30" width="40" /></a>
 </p>
 
