@@ -1,7 +1,6 @@
-<div style="text-align: center;">
 <h1 align="center">Hi 👋, I'm Imesha Dewmin Thilakaratne</h1>
 <h3 align="center">A Fresh Graduate in Software Engineering</h3>
-<img alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <br>
 
 
@@ -26,4 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imeshadewmin&show_icons=true&locale=en&layout=compact" alt="imeshadewmin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imeshadewmin&show_icons=true&locale=en" alt="imeshadewmin" /></p>
-</div>
+
