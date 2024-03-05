@@ -1,7 +1,7 @@
 <div style="text-align: center;">
 <h1 align="center">Hi 👋, I'm Imesha Dewmin Thilakaratne</h1>
 <h3 align="center">A Fresh Graduate in Software Engineering</h3>
-<img align="center" alt="coding" width="400" src="https://content.presentermedia.com/content/animsp/00029000/29121/cyber_criminal_md_nwm_v2.gif">
+<img alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <br>
 
 
