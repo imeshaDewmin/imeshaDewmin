@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Imesha Dewmin Thilakaratne</h1>
 <h3 align="center">A Fresh Graduate in Software Engineering</h3>
-<img align="center" alt="coding" width="400" src="https://content.presentermedia.com/content/animsp/00029000/29121/cyber_criminal_md_nwm_v2.gif"> <br>
+<img align="center" alt="coding" width="400" src="https://content.presentermedia.com/content/animsp/00029000/29121/cyber_criminal_md_nwm_v2.gif">
+<br>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imeshadewmin&label=Profile%20views&color=0e75b6&style=flat" alt="imeshadewmin" /> </p>
 
