@@ -1,3 +1,4 @@
+<div style="text-align: center;">
 <h1 align="center">Hi 👋, I'm Imesha Dewmin Thilakaratne</h1>
 <h3 align="center">A Fresh Graduate in Software Engineering</h3>
 <img align="center" alt="coding" width="400" src="https://content.presentermedia.com/content/animsp/00029000/29121/cyber_criminal_md_nwm_v2.gif">
@@ -25,3 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imeshadewmin&show_icons=true&locale=en&layout=compact" alt="imeshadewmin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imeshadewmin&show_icons=true&locale=en" alt="imeshadewmin" /></p>
+</div>
