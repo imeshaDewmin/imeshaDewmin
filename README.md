@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imeshadewmin&label=Profile%20views&color=0e75b6&style=flat" alt="imeshadewmin" /> </p>
 
 
-- 🌱 I’m currently learning **React and MERN Stack **
+- 🌱 I’m currently learning React and MERN Stack 
 
 - 📫 How to reach me **dewmin2001@gmail.com**
 
