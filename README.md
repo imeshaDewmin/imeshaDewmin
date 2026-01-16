@@ -71,29 +71,15 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imeshaDewmin&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+### 📈 GitHub Activity Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imeshaDewmin&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- 🔢 **Public Repositories:**  GitHub auto-calculated  
+- 🧑‍💻 **Primary Stack:** Java | Spring Boot | React  
+- 🔐 **Backend Focus:** REST APIs, JWT, GraphQL  
+- 🐳 **DevOps:** Docker fundamentals  
+- 📊 **Consistent learner & contributor**
 
----
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=imeshaDewmin&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🚀 What I’m Working On
-- 🔐 Secure REST APIs with **Spring Boot + JWT**
-- 🧠 **GraphQL** APIs with Java & Node.js
-- 🐳 Containerized apps using **Docker**
-- ⚛️ Frontend apps with **React & Tailwind CSS**
+➡️ Detailed contribution history available in **GitHub profile activity graph**
 
 ---
 
