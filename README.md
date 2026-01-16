@@ -11,7 +11,7 @@
 - 🎓 Graduate in **Software Engineering**
 - 🌱 Currently learning **Java Spring Boot, React & MERN Stack**
 - 🧩 Interested in **Backend & Full Stack Development**
-- 🤝 Actively seeking **Intern / Junior Software Engineer** opportunities
+- 🤝 Actively seeking **Junior / Associate Software Engineer** opportunities
 - 📫 Reach me at **dewmin2001@gmail.com**
 
 ---
